@@ -22,9 +22,3 @@ def start_game():
         print(f"У вас осталось {MY_MONEY} денег")
     else:
         a = input("Повторяем ДА это + \nНЕТ это -\n ")
-
-
-
-
-
-
